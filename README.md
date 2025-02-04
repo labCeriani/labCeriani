@@ -11,11 +11,6 @@ At the Laboratory of Behavior Genetics, we are dedicated to understanding how th
 - We analyze the coordinated action of approximately 150 clock neurons in the fruit fly Drosophila melanogaster.
 - We study the structural plasticity of clock neurons, observing how their projections change throughout the day.
 
-### Plasticity and Neuronal Communication
-- We explore the molecular mechanisms responsible for the daily remodeling of clock neurons.
-- We investigate how synaptic connectivity and neurotransmitter release vary throughout the day.
-- We evaluate structural plasticity and its impact on the circadian network.
-
 ### Metabolic Integration and Biological Clock
 - We study the relationship between basal cellular metabolism and the molecular clock.
 - We explore how progressive dysfunction of these processes impacts lifespan.

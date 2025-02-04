@@ -18,11 +18,11 @@ At the Laboratory of Behavior Genetics, we are dedicated to understanding how th
 
 ## Approach
 
-We combine genetic approaches and behavioral analyses with molecular tools, specific staining, and confocal microscopy to analyze the role of different molecules in the processes we are studying. We use genetic tools to interfere with gene expression or the function of specific groups of cells through genome editing and the expression of genetically encoded tools (such as RNA interference). We employ thermo- and chemogenetics coupled with calcium imaging as an indicator of neuronal activity, and evaluate the consequences of these manipulations at the molecular (transcriptomics), cellular and organ levels (imaging), and at the level of the intact animal (through behavioral assays).
+We use genetic and behavioral analyses with molecular tools, staining, and microscopy. Techniques include genome editing, RNA interference, thermo- and chemogenetics, calcium imaging, and transcriptomics to study molecular, cellular, and behavioral impacts.
 
 ## Advances
 
-The long-term goal of the laboratory is to understand how behavior is controlled; we chose to study sleep and wake cycles, common to (almost) all animals, which depend on the activity of a discrete set of clock neurons. Over the years, we have analyzed how clock neurons communicate with each other; for example, we found that part of the connections between clock neurons remodel daily. This form of plasticity (which we call circadian structural plasticity) allows them to connect and disconnect even outside the network throughout the day! We also found that some clock neurons release more than one neurotransmitter (both excitatory and inhibitory types). All these observations suggest an unsuspected level of complexity in the circadian neuronal network, which could be essential for adapting to changing environmental conditions (for example, in preparation for daily or seasonal changes).
+Our goal is to understand behavior control, focusing on sleep and wake cycles in clock neurons. We discovered daily remodeling, multi-neurotransmitter release, and complex circadian network adaptations for environmental changes.aily or seasonal changes).
 
 ---
 
